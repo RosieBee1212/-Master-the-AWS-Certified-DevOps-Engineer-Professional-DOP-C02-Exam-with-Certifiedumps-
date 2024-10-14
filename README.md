@@ -2,6 +2,9 @@
 
 Are you ready to advance your career by acing the [AWS Certified DevOps Engineer – Professional (DOP-C02) exam](https://www.certifiedumps.com/amazon/dop-c02-dumps.html) ? 🎓 Look no further! **Certifiedumps** offers **100% verified exam dumps**, along with a **money-back guarantee**, to help you pass your exam on the first attempt. 🛡️
 
+![dop-c02](https://github.com/user-attachments/assets/d9c457fd-25b6-44cb-933e-c56f4a00ffc3)
+
+
 ## 📘 What is the AWS DOP-C02 Exam?
 
 The **AWS Certified DevOps Engineer – Professional (DOP-C02)** certification is designed for professionals who are responsible for **continuous delivery** and the **automation of AWS services**. 🌐 If you're involved in both operations and development, this exam validates your expertise in automating and optimizing AWS environments. 🌟
